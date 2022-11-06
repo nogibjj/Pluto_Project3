@@ -1,0 +1,8 @@
+click
+pytest
+pylint
+ipython
+numpy
+pandas
+sqlalchemy
+
