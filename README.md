@@ -13,4 +13,4 @@ This is a sql project from Duke IDS 706 course and require us to write a script 
 5. Which top 5 universities have the highest rank of quality of education and quality of faculty both in the United States?
 
 # Conclusions
-This queries can provide people objective data analysis when comparing a university. 
+The script can provide people objective data analysis when comparing a university. 
